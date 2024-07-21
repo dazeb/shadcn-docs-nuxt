@@ -1,14 +1,9 @@
----
-title: Home
-navigation: false
----
-
-::hero
+::hero-alt
 ---
 announcement:
-  title: 'Release v0.4.1'
-  icon: 'noto:party-popper'
-  to: /getting-started/changelog
+  title: 'Introducing Charts'
+  icon: 'lucide:pie-chart'
+  to: /getting-started
 actions:
   - name: Get Started
     to: /getting-started
@@ -19,12 +14,12 @@ actions:
 ---
 
 #title
-Effortless and Beautiful<br>Docs Template.
+Build your component library
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue.<br>Customizable. Compatible. Open Source.
+Beautifully designed components that you can copy and paste into your apps.
 ::
 
-<div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
-</div>
+::Ai
+  This is content inside the Ai component
+::
